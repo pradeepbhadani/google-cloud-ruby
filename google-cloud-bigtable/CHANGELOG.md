@@ -1,5 +1,11 @@
 # Release History
 
+### 0.7.1 / 2019-10-29
+
+#### Documentation
+
+* Update the list of GCP environments for automatic authentication
+
 ### 0.7.0 / 2019-10-22
 
 #### Features
